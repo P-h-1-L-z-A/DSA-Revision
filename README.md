@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
