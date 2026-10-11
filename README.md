@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
