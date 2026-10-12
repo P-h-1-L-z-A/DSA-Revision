@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0070-climbing-stairs/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0070-climbing-stairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
