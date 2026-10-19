@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
