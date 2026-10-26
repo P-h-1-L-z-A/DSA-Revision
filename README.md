@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0190-reverse-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0190-reverse-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
