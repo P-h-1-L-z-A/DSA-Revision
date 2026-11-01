@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0195-tenth-line](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0195-tenth-line/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
