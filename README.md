@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0205-isomorphic-strings/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0205-isomorphic-strings/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
