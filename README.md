@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0217-contains-duplicate/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0217-contains-duplicate/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
