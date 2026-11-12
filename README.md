@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
