@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
