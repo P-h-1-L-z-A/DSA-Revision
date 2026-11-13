@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0217-contains-duplicate/) | Easy |
@@ -173,8 +174,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
