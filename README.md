@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0204-count-primes/) | Medium |
+| [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +210,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0239-sliding-window-maximum/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
