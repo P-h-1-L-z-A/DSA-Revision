@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0292-nim-game/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
