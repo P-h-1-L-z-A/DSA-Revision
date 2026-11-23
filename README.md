@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0205-isomorphic-strings/) | Easy |
+| [0306-additive-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0306-additive-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +241,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0306-additive-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0306-additive-number/) | Medium |
 <!---LeetCode Topics End-->
