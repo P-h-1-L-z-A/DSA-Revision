@@ -186,11 +186,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
+| [0310-minimum-height-trees](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0310-minimum-height-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0200-number-of-islands/) | Medium |
+| [0310-minimum-height-trees](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0310-minimum-height-trees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,4 +247,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0306-additive-number](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0306-additive-number/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0310-minimum-height-trees/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/P-h-1-L-z-A/DSA-Revision/tree/main/0310-minimum-height-trees/) | Medium |
 <!---LeetCode Topics End-->
